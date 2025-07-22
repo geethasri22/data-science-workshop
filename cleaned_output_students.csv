@@ -1,0 +1,8 @@
+Age,Score,IsStudent,MissingValueCol,Age_Plus_Score,Age_Doubled,Name_Bob,Name_Charlie,Name_David,Name_Eve,Name_Frank,Name_Grace,City_Houston,City_Los Angeles,City_New York,City_Phoenix,EnrollmentDate_2020-05-10,EnrollmentDate_2021-03-20,EnrollmentDate_2022-01-15,EnrollmentDate_2022-11-25,EnrollmentDate_2023-02-14,EnrollmentDate_2023-09-01
+-0.9206923582851393,0.10776318121606546,True,-1.894461150524723,-0.3460807176337201,-0.9206923582851393,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+-0.20459830184114217,0.9878291611472625,False,0.0,0.8075216744786803,-0.20459830184114217,True,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False
+-1.3980883959144708,-0.7723027987151316,True,-0.516671222870379,-1.3843228705348805,-1.3980883959144708,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+0.9888917922321864,1.3650002954034899,False,0.0,1.7304035881686006,0.9888917922321864,False,False,True,False,False,False,True,False,False,False,True,False,False,False,False,False
+0.2727977357881893,0.48493431547229277,True,0.861118704783965,0.5768011960562002,0.2727977357881893,False,False,False,True,False,False,False,False,False,True,False,False,False,True,False,False
+1.7049858486761835,-1.778092490065071,False,1.550013668611137,-0.8075216744786803,1.7049858486761835,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+-0.4432963206558079,-0.3951316644589043,True,0.0,-0.5768011960562002,-0.4432963206558079,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False
