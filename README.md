@@ -3,12 +3,10 @@ Over the course of three days, our Data Science workshop provided a practical in
 
 Day 1 - Introduction to Python Libraries
 We began by exploring the foundational Python libraries used in data science. These included NumPy for numerical operations, Pandas for data manipulation and analysis  for data visualization. Participants learned how to load datasets, perform basic statistical operations, and visualize data effectively. Jupyter Notebooks were used throughout for hands-on coding practice.
+
 Day 2 - Data Preprocessing Techniques
-
 The second day focused on the importance of preparing clean data for analysis. Participants learned to handle missing values using techniques like mean and mode imputation, identify and remove duplicate entries, convert data types such as strings to datetime objects, and encode categorical data using label encoding and one-hot encoding. Simple normalization methods such as min-max scaling were also introduced.
-
-Day 3 - Feature Engineering and Data Transformation
-
+------Feature Engineering and Data Transformation
 On the final day, we explored feature engineering, which involves creating new features to improve model performance. This included extracting new variables from existing data, transforming numerical features, and combining features to capture relationships. Participants also learned about scaling, binning, and applying log transformations to handle skewed data distributions.
 
 Key Takeaways
