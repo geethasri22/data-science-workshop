@@ -1,4 +1,4 @@
-# data-science-workshop
+# Data-Science-workshop
 Over the course of three days, our Data Science workshop provided a practical introduction to the tools and techniques essential for data analysis. Below is a summary of what was covered each day.
 
 Day 1 - Introduction to Python Libraries
